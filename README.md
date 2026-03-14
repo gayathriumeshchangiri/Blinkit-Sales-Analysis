@@ -1,4 +1,6 @@
 # 🛒 Blinkit Sales Analysis Dashboard
+## 📷 Dashboard Preview
+![Blinkit Dashboard](dashboard.png)
 
 ## 📊 Project Overview
 This project presents a **Sales Analysis Dashboard for Blinkit – India's Last Minute App**, built using **Power BI**.  
@@ -60,8 +62,7 @@ Performance comparison between:
 - Supermarket Type 2
 - Supermarket Type 3
 
-## 📷 Dashboard Preview
-![Blinkit Dashboard](dashboard.png)
+
 
 ## 📂 Project Files
 - `blinkit.pbix` → Power BI Dashboard file  
